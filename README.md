@@ -1,1 +1,1 @@
-# obsidian-propery-linter
+# obsidian-property-linter
